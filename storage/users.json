@@ -1,0 +1,22 @@
+{
+  "505057643": {
+    "user_id": 505057643,
+    "username": "solarmolly",
+    "first_name": "Кирилл",
+    "last_name": "Вампир",
+    "first_seen": "2025-06-07T22:08:00.085214",
+    "last_seen": "2025-06-07T22:11:03.334422",
+    "message_count": 5,
+    "is_active": true
+  },
+  "5220728637": {
+    "user_id": 5220728637,
+    "username": "KirillKovtun",
+    "first_name": "[impro.pro] Кирилл Ковтун",
+    "last_name": null,
+    "first_seen": "2025-06-07T22:11:13.927177",
+    "last_seen": "2025-06-07T22:11:13.927177",
+    "message_count": 1,
+    "is_active": true
+  }
+}
